@@ -1,23 +1,27 @@
 ## Project Operations Performance Dashboard (Power BI)
 
-This project shows how project budgets, costs, progress, and risks can be monitored using Power BI.
+### Overview
+This project analyzes project operations performance using Power BI, focusing on budget control, cost variance, progress tracking, and project status.
 
-### What this dashboard shows
-- Planned budget vs actual spending
-- Cost variance across projects
-- Project progress and completion status
-- On-track vs at-risk projects
-- Safety incident overview
+### Business Problem
+Management needs a clear way to monitor project spending, track progress, and identify projects that may be at risk of cost overruns or delays.
 
-### Tools used
+### What the Dashboard Shows
+- Total project budget vs actual cost
+- Cost variance across multiple projects
+- Project progress percentage
+- On-track vs at-risk project status
+- Detailed project-level performance table
+
+### Tools Used
 - Power BI
 - Excel
-- DAX (for calculations)
+- DAX (Measures & KPIs)
 
-### Key highlights
-- Identified projects with cost overruns
-- Compared multiple projects side-by-side
-- Built executive-level KPIs and visuals
+### Key Insights
+- Identified projects exceeding planned budgets
+- Highlighted overall project progress and completion trends
+- Provided a clear visual breakdown of project risk status
 
-### Dashboard Screenshots
-See images above for dashboard overview and insights.
+### Outcome
+The dashboard enables quick, data-driven decision-making by presenting both executive-level summaries and detailed project information in one view.
