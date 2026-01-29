@@ -69,14 +69,15 @@ Management needs a simple way to see:
 - Product slicer to filter the dashboard interactively
   
 ### Key Insights
+-  Data Analyst focused on building dashboards and insights for business and operations teams.
 - Laptop generated the highest total sales
 - Lagos region recorded the highest sales
 - Product filtering helps quickly compare performance
-### Key Insights
 - Some projects exceeded their planned budgets, indicating cost overruns.
 - Projects marked **At Risk** showed lower progress percentages compared to budget usage.
 - Highway Expansion and Drainage Improvement projects require closer monitoring.
 - The dashboard enables quick comparison of project performance and status.
+- More projects coming: SQL analysis, customer insights, and trend analysis.
 
 ### Outcome
 This dashboard helps decision-makers quickly understand sales performance and make informed business decisions.
