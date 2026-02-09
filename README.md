@@ -81,3 +81,32 @@ Management needs a simple way to see:
 
 ### Outcome
 This dashboard helps decision-makers quickly understand sales performance and make informed business decisions.
+
+
+## HR Salary Analysis Dashboard (Power BI)
+
+This project analyzes employee salary distribution across departments using Power BI.
+
+### Key Insights
+- Total number of employees
+- Average salary across departments
+- Total salary cost by department
+- Department-level comparison using interactive slicers
+
+### Tools Used
+- Power BI
+- DAX (basic measures)
+- Data modeling & visualization best practices
+
+### Pages
+1. Overview Dashboard
+2. Department Analysis Dashboard
+## Dashboard Preview
+
+### Overview Page
+![Overview Dashboard](images/overview.png)
+
+### Department Analysis Page
+![Department Analysis Dashboard](images/department-analysis.png)
+
+
