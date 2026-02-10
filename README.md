@@ -101,14 +101,11 @@ This project analyzes employee salary distribution across departments using Powe
 ### Pages
 1. Overview Dashboard
 2. Department Analysis Dashboard
-## Dashboard Preview
 
-## Dashboard Preview
+## HR Analytics Dashboard – Overview
+![HR Dashboard Overview](Overview.png)
 
-![HR Analytics Dashboard](dashboard.png)
-## Dashboard Preview
-
-![HR Analytics Dashboard](images/dashboard.png)
-
+## Department Analysis
+![Department Analysis](Department%20Analysis.png)
 
 
