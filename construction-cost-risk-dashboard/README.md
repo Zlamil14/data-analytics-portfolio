@@ -17,13 +17,8 @@ This dashboard analyzes construction project performance focusing on:
 
 ---
 
-## 📈 Dashboard Preview
-
-### Executive Overview
-![Executive Overview](construction-cost-risk-dashboard-overview.png)
-
-### Risk & Cost Analysis
-![Risk & Cost Analysis](construction-risk-cost-analysis.png)
+![Executive Overview](./construction-cost-risk-dashboard-overview.png)
+![Risk & Cost Analysis](./construction-risk-cost-analysis.png)
 
 ---
 
