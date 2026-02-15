@@ -1,37 +1,51 @@
 # Construction Cost & Risk Performance Dashboard
 
-## 📊 Overview
-This dashboard analyzes construction project cost variance, risk score, and schedule delays using SQL, Excel, and Power BI.
+## 📊 Tools Used
+- SQL (Data extraction)
+- Excel (Data cleaning)
+- Power BI (Data modeling & visualization)
 
 ---
 
-## 🛠 Tools Used
-- SQL
-- Excel
-- Power BI
-- DAX
+## 🔎 Project Overview
+This dashboard analyzes construction project performance focusing on:
+
+- Cost variance by project type
+- Risk vs schedule delay relationship
+- Contractor performance comparison
+- Country-level cost analysis
 
 ---
 
-## 📈 Key Insights
-✔ Cost variance by project type  
-✔ Risk vs schedule delay relationship  
-✔ Contractor performance comparison  
-✔ Country-level cost breakdown  
+## 📈 Dashboard Preview
+
+### Executive Overview
+![Executive Overview](construction-cost-risk-dashboard-overview.png)
+
+### Risk & Cost Analysis
+![Risk & Cost Analysis](construction-risk-cost-analysis.png)
 
 ---
 
-## 📸 Dashboard Preview
-![Dashboard](dashboard-preview.png)
+## 💡 Key Insights
+
+- Infrastructure projects recorded the highest cost variance.
+- Strong positive relationship between schedule delays and risk score.
+- Contractor performance varies significantly across projects.
+- Canada and UK show the highest cost variance.
 
 ---
 
-## 📂 Files Included
-- Construction_Cost_Risk_Dashboard.pbix
-- Construction_Cost_Risk_Dashboard.pdf
-- Dataset (if shareable)
+## 🧠 Skills Demonstrated
+
+- Data cleaning
+- Data modeling
+- DAX measures
+- Business insight storytelling
+- KPI design
+- Data visualization best practices
 
 ---
 
-## 👤 Author
+## 📌 Author
 Zlamil
